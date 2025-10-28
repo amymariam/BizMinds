@@ -30,8 +30,7 @@ If LlamaIndex isn’t available (e.g., version or import issue), the app **autom
 ## 🧩 Example Queries
 
 You can ask:
-- “What are the top 5 best-selling products this year?”
-- “Which month had the highest sales and why?”
+- “What are the top 5 best-selling products?”
 - “Suggest strategies to boost sales for underperforming categories.”
-- “Compare revenue growth in Q1 vs Q2.”
+
 

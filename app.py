@@ -3,7 +3,6 @@ import pandas as pd
 import streamlit as st
 from dotenv import load_dotenv
 
-
 load_dotenv()
 CLAUDE_API_KEY = os.getenv("CLAUDE_API_KEY")
 
@@ -76,3 +75,5 @@ if query:
             st.write(answer)
         except Exception as e:
             st.error(f"Error generating response: {e}")
+
+

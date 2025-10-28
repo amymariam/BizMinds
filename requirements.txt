@@ -1,0 +1,5 @@
+streamlit==1.30.0
+pandas==2.1.0
+llama-index==0.8.0
+anthropic==2025.10.1
+python-dotenv==1.1.1
